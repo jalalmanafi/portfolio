@@ -10,6 +10,11 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Jalal Manafi",
   description: "Frontend developer, React developer",
+  icons: {
+    icon: {
+      url: "/favicon.svg",
+    },
+  },
 };
 
 export default function RootLayout({
