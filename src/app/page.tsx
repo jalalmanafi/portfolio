@@ -1,7 +1,6 @@
 import About from "./sections/About";
 import Header from "./sections/Header";
 import Skills from "./sections/Skills";
-import Resume from "./sections/Resume";
 import Contact from "./sections/Contact";
 
 export default function Home() {
@@ -11,7 +10,6 @@ export default function Home() {
       <About />
       <Skills />
       <Contact />
-      <Resume />
     </div>
   );
 }
