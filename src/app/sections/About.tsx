@@ -5,7 +5,7 @@ import Title from "../components/Title";
 const About = () => {
   return (
     <div>
-      <Title title="About me" />
+      <Title title="About me  ℹ️" />
       <div>
         I build websites that look good and work well. I love clean code and
         smart solutions. During work hours, I design digital experiences for

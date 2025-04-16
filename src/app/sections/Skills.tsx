@@ -5,7 +5,7 @@ import Title from '../components/Title'
 const Skills = () => {
   return (
     <div>
-      <Title title="Skills" />
+      <Title title="Skills  🥷🏻" />
       <a
         className="underline font-semibold"
         download

@@ -6,7 +6,7 @@ import ContactList from "../components/ContactList";
 const Contact = () => {
   return (
     <div>
-      <Title title="Contact ☎️" />
+      <Title title="Contact  ☎️" />
       <ContactList />
     </div>
   );
