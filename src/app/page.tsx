@@ -5,7 +5,7 @@ import Contact from "./sections/Contact";
 
 export default function Home() {
   return (
-    <div className="max-w-xl h-screen mx-auto flex flex-col justify-center gap-4 max-[400px]:gap-2 px-4 max-[275px]:h-full">
+    <div className="max-w-xl h-screen mx-auto flex flex-col justify-between max-[400px]:gap-2 py-16 px-4">
       <Header />
       <About />
       <Skills />
